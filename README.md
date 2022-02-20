@@ -1,5 +1,5 @@
 # Java-Boids2D
-2D Boids written in Java.
+2D Boids written in Java as described by Craig Reynolds: https://www.red3d.com/cwr/boids/
 
 What are boids? A boid simulation is a flocking simulation using emergent behavior from localized rules.
 
